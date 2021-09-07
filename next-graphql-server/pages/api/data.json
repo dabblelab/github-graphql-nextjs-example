@@ -1,0 +1,52 @@
+{
+    "data": {
+        "search": {
+            "__typename": "SearchResultItemConnection",
+            "nodes": [
+                {
+                    "__typename": "Repository",
+                    "createdAt": "2018-01-12T15:23:01Z",
+                    "description": "Alexa Audio Streaming Skill Template",
+                    "diskUsage": 8939,
+                    "nameWithOwner": "dabblelab/3-alexa-audio-streaming-example-skill",
+                    "updatedAt": "2021-08-16T11:42:19Z"
+                },
+                {
+                    "__typename": "Repository",
+                    "createdAt": "2020-03-26T22:02:58Z",
+                    "description": null,
+                    "diskUsage": 17833,
+                    "nameWithOwner": "dabblelab/22-alexa-audio-streaming-skill",
+                    "updatedAt": "2021-08-09T12:16:26Z"
+                },
+                {
+                    "__typename": "Repository",
+                    "createdAt": "2021-02-11T17:08:18Z",
+                    "description": "An Alexa Skill template that integrates with Firebase Realtime Database.",
+                    "diskUsage": 88,
+                    "nameWithOwner": "dabblelab/38-google-firebase-realtime-database-alexa-skill-example",
+                    "updatedAt": "2021-08-02T18:29:17Z"
+                },
+                {
+                    "__typename": "Repository",
+                    "createdAt": "2021-02-25T12:48:13Z",
+                    "description": "This example illustrates binding up Firebase Cloud Firestore with an Alexa Skill",
+                    "diskUsage": 77,
+                    "nameWithOwner": "dabblelab/39-google-firebase-cloud-firestore-alexa-skill-example",
+                    "updatedAt": "2021-08-02T18:22:45Z"
+                },
+                {
+                    "__typename": "Repository",
+                    "createdAt": "2021-03-25T18:19:01Z",
+                    "description": null,
+                    "diskUsage": 69,
+                    "nameWithOwner": "dabblelab/amazon-comprehend-medical-alexa-skill-example",
+                    "updatedAt": "2021-08-02T16:53:24Z"
+                }
+            ],
+            "repositoryCount": 55
+        }
+    },
+    "loading": false,
+    "networkStatus": 7
+}
