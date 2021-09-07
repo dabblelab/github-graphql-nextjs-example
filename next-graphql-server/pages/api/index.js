@@ -12,7 +12,7 @@ type Repository
 }
 type Search
 {
-
+  
   repositoryCount: Int
   nodes: [Repository
     ]
@@ -33,7 +33,7 @@ export const resolvers = {
       try {
         const topics = await axios.get("https://api.github.com/graphql", {
           headers: {
-            authorization: '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'
+            authorization: 'TOKEN_HERE'
           }
         })
         return topics.data.map(({ description, updatedAt, createdAt, diskUsage }) => ({
